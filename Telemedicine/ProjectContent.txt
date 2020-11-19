@@ -1,5 +1,0 @@
-Telemedicine Content:
-
-    blah blah
-    blah blah
-    hello world
