@@ -4,8 +4,7 @@
 
 ![Greetings](https://github.com/ianignacioa/mms142-groupa-2020.github.io/workflows/Greetings/badge.svg?event=issues)
 
-![Github All Contributors](https://img.shields.io/github/all-contributors/ianignacioa/https://github.com/ianignacioa/mms142-groupa-2020.github.io/graphs/contributors)
-
+![GitHub issues](https://img.shields.io/github/issues/ianignacioa/mms142-groupa-2020.github.io)
 
 # Description
 
