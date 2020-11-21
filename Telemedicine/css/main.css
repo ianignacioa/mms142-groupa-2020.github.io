@@ -3,16 +3,8 @@ body{
 }
 
 .nav-bar{
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    min-height: 100px;
-    padding: 0 25px;
-    box-sizing: border-box;
-    background-color: rgba(255,255,255,0.02);
-    box-shadow: 0 0 15px 2px rgba(0,0,0,0.5);
-    z-index: 100;
-    backface-visibility: hidden;
-    transition: 0.35s ease;
+    border-radius: 50px;
+background: #ffffff;
+box-shadow:  20px 20px 60px #d9d9d9, 
+             -20px -20px 60px #ffffff;
 }
