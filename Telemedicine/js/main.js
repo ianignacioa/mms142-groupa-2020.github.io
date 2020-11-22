@@ -1,15 +1,17 @@
-!function(exports){
-    if(exports == "object"){
-
+!function(param){
+    if(typeof exports === 'object' && typeof module !== 'undefined'){
+        module.exports = param();
     }
     function functionIdentifier(){
 
     }
-}([
-    (function(){
-
-    }),
-    function(){
+}(function(){
+    var define, exports, module;
+    return (function() {
         
+    });
+}([
+    function(require, module, exports){
+
     }
-])
+]));
