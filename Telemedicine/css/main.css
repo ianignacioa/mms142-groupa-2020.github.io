@@ -15,10 +15,18 @@ header .logo h1{
     font: 30px/1 Helvetica, Arial, sans-serif;
 	float: left;
 	padding: 0 0 0 50px;
+	color: white;
 }
 
 header nav{
 	float: right;
+}
+
+.nav-bar{
+    border-radius: 50px;
+background: #ffffff;
+box-shadow:  20px 20px 60px #d9d9d9, 
+             -20px -20px 60px #ffffff;
 }
 
 header ul{
@@ -33,11 +41,19 @@ header li{
 	float: left;
 }
 
-.nav-bar{
-    border-radius: 50px;
-background: #ffffff;
-box-shadow:  20px 20px 60px #d9d9d9, 
-             -20px -20px 60px #ffffff;
+header a{
+	font: 13px Helvetica, sans-serif;
+	font-weight: bold;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 27px 40px 27px 40px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+header li a:hover{
+	color: #F2AE32;
 }
 
 .container{
