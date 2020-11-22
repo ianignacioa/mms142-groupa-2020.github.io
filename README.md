@@ -5,4 +5,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/ianignacioa?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/ianignacioa/mms142-groupa-2020.github.io?label=Seen&style=social)
 
-# Don't Edit the code and file please follow the structure first. 
+# Don't edit the code and file, please follow the structure first. 
