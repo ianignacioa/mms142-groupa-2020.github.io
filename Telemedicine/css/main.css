@@ -1,5 +1,36 @@
 body{
     background-color: white;
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+header{
+    background-color: black;
+    padding: 0;
+    overflow: hidden;
+}
+
+header .logo h1{
+    font: 30px/1 Helvetica, Arial, sans-serif;
+	float: left;
+	padding: 0 0 0 50px;
+}
+
+header nav{
+	float: right;
+}
+
+header ul{
+ 	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+  	background-color: none;
+}
+
+header li{
+	float: left;
 }
 
 .nav-bar{
