@@ -1,11 +1,15 @@
+/**
+ * @module dont_edit_anything
+ */
 ;(function () {
-	
 	'use strict';
-
 	var owlCarousel = function(){
 
+        /** Initialize @module WOW **/
         new WOW().init();
-
+        /** using Jquery framework  
+         * @event Carousel-worker
+         */
         $('.owl-carousel').owlCarousel({
             items : 4,
             loop  : true,
@@ -42,7 +46,7 @@
         });
 
 	};
-
+    /** To load any section in the webpage **/
     $.fn.goTo = function() {
         $('html, body').animate({
             scrollTop: $(this).offset().top + 'px'
@@ -53,6 +57,4 @@
 	$(function(){
 		owlCarousel();
 	});
-
-
 }());
