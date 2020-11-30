@@ -580,11 +580,11 @@ h6 {
 /* Services Section
 --------------------------------*/
 
-#services {
+#a-closer-look {
     padding: 60px 0 40px 0;
 }
 
-#services .box {
+#a-closer-look .box {
     padding: 30px;
     position: relative;
     overflow: hidden;
@@ -596,12 +596,12 @@ h6 {
     text-align: center;
 }
 
-#services .box:hover {
+#a-closer-look .box:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
 
-#services .icon {
+#a-closer-look .icon {
     margin: 0 auto 15px auto;
     padding-top: 12px;
     display: inline-block;
@@ -611,26 +611,26 @@ h6 {
     height: 60px;
 }
 
-#services .icon i {
+#a-closer-look .icon i {
     font-size: 36px;
     line-height: 1;
 }
 
-#services .title {
+#a-closer-look .title {
     font-weight: 700;
     margin-bottom: 15px;
     font-size: 18px;
 }
 
-#services .title a {
+#a-closer-look .title a {
     color: #111;
 }
 
-#services .box:hover .title a {
+#a-closer-look .box:hover .title a {
     color: #1bb1dc;
 }
 
-#services .description {
+#a-closer-look .description {
     font-size: 14px;
     line-height: 28px;
     margin-bottom: 0;
@@ -1550,7 +1550,12 @@ h6 {
         height: 220px;
         left: 0;
     }
-    
+    .footer-info p{
+        text-align: justify;
+        padding: 2px;
+        position: relative;
+    }
+
     .about-img .youtube-player{
         margin-left: -17px;
         width: 300px;
