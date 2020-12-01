@@ -456,7 +456,9 @@ h6 {
 .mobile-nav-active {
     overflow: hidden;
 }
-
+.pla {
+    margin-left: 320px;
+}
 .mobile-nav-active .mobile-nav {
     left: 0;
 }
@@ -581,15 +583,16 @@ h6 {
 --------------------------------*/
 
 #a-closer-look {
-    padding: 60px 0 40px 0;
+    margin-top: 80px;
+    padding: 20px 0 40px 0;
 }
 
 #a-closer-look .box {
-    padding: 30px;
+    padding: 10px;
     position: relative;
     overflow: hidden;
     border-radius: 10px;
-    margin: 0 10px 40px 10px;
+    margin: 0 -15px 40px -15px;
     background: #fff;
     box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
     transition: all 0.3s ease-in-out;
@@ -1548,7 +1551,7 @@ h6 {
     .about-img{
         width: 265px;
         height: 220px;
-        left: 0;
+        left: -5px;
     }
     .footer-info p{
         text-align: justify;
@@ -1556,8 +1559,14 @@ h6 {
         position: relative;
     }
 
-    .about-img .youtube-player{
-        margin-left: -17px;
+    .pla{
+        margin-left: 7px;
+        width: 300px;
+        height: 220px;
+    }
+
+    .about-img .youtube-player {
+        margin-left: -18px;
         width: 300px;
         height: 220px;
     }
