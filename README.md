@@ -5,9 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/ianignacioa?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/ianignacioa/mms142-groupa-2020.github.io?label=Seen&style=social)
 
-[![GitHub](https://img.shields.io/badge/Preview-webpage-green)](https://rawcdn.githack.com/ianignacioa/mms142-groupa-2020.github.io/fad1eb2c8ef69c764e1625bd2162d659949bb3c9/Telemedicine/index.html)
+[![GitHub](https://img.shields.io/badge/Preview-webpage-green)](https://raw.githack.com/ianignacioa/mms142-groupa-2020.github.io/main/Telemedicine/pages/page1.html)
 
-# Don't edit the code and file, please follow the structure first. 
-# Target of completion for the content is Saturday-Sunday (Nov. 28-29).
-# Target start date for building pages starts on Nov. 28th onwards.
-
+# Just click the Preview webpage button above to run the code.
