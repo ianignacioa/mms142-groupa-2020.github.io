@@ -640,15 +640,24 @@ h6 {
     font-size: 16px;
     line-height: 28px;
     text-align: justify;
-    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: -5px;
+    padding-bottom: 10px;
+}
 
+#about .description{
+    font-size: 16px;
+    line-height: 28px;
+    text-align: justify;
 }
 
 #a-closer-look3 .description{
     font-size: 16px;
     line-height: 28px;
     text-align: justify;
-    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 #a-closer-look .img-fluid{
