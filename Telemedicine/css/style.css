@@ -637,10 +637,18 @@ h6 {
 }
 
 #a-closer-look .description {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 28px;
-    margin-bottom: 0;
-    text-align: left;
+    text-align: justify;
+    padding: 10px;
+
+}
+
+#a-closer-look3 .description{
+    font-size: 16px;
+    line-height: 28px;
+    text-align: justify;
+    padding: 10px;
 }
 
 #a-closer-look .img-fluid{
@@ -1552,11 +1560,21 @@ h6 {
     }
 }
 
+.about-content1{
+    text-align: center; 
+    margin-left: 350px; 
+    width: 410px;
+}
+
+.about-img2{
+    margin-left: 250px;
+}
 
 
 @media (max-width: 767px) {
     .section-header h3{
         font-size: 30px;
+        margin-top: -40px;
     }
 
     #a-closer-look .img-fluid{
@@ -1581,8 +1599,20 @@ h6 {
         position: relative;
     }
 
+    .about-content1{
+        margin-left: -20px;
+        font-size: 0.9em;
+        width: 350px;
+    }
+
     .about-img1 iframe{
-        margin-left: 24px;
+        margin-left: 23px;
+        width: 300px;
+        height: 220px;
+    }
+
+    .about-img2 iframe{
+        margin-left: -245px;
         width: 300px;
         height: 220px;
     }
