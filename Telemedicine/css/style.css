@@ -475,7 +475,7 @@ h6 {
 --------------------------------*/
 
 .section-header h3 {
-    font-size: 36px;
+    font-size: 56px;
     color: #413e66;
     text-align: center;
     font-weight: 700;
@@ -496,8 +496,12 @@ h6 {
 --------------------------------*/
 
 .section-bg {
-    background: #f5f8fd;
+    background: #e6eeff url('../img/tele-bg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-blend-mode: screen;
 }
+
 
 /* About Us Section
 --------------------------------*/
@@ -583,7 +587,6 @@ h6 {
 --------------------------------*/
 
 #a-closer-look {
-    margin-top: 80px;
     padding: 20px 0 40px 0;
 }
 
@@ -638,6 +641,10 @@ h6 {
     line-height: 28px;
     margin-bottom: 0;
     text-align: left;
+}
+
+#a-closer-look .img-fluid{
+    height: 350px;
 }
 
 /* Why Us Section
@@ -1548,10 +1555,25 @@ h6 {
 
 
 @media (max-width: 767px) {
+    .section-header h3{
+        font-size: 30px;
+    }
+
+    #a-closer-look .img-fluid{
+        height: auto;
+    }
+
+    .about-content h2{
+        font-size: 25px;
+        text-align: center;
+    }
+    .about-content p{
+        text-align: justify;
+    }
     .about-img{
         width: 265px;
         height: 220px;
-        left: -5px;
+        left: 10px;
     }
     .footer-info p{
         text-align: justify;
@@ -1559,8 +1581,8 @@ h6 {
         position: relative;
     }
 
-    .pla{
-        margin-left: 7px;
+    .about-img1 iframe{
+        margin-left: 24px;
         width: 300px;
         height: 220px;
     }
