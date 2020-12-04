@@ -984,12 +984,12 @@ Section with background
 
     .about-img{
         left: 0;
-        width: 275px;
+        width: 270px;
         height: 220px;
     }
 
     .about-img iframe{
-        margin-left: -20px;
+        margin-left: -15px;
         width: 300px;
         height: 220px;
     }
