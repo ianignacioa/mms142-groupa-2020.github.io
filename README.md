@@ -11,4 +11,4 @@
 
 
 ## Telemedicine Website
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ianignacioa/mms142-groupa-2020.github.io/blob/main/Telemedicine/img/screenshot.png?raw=true)
