@@ -7,5 +7,8 @@
 
 [![GitHub](https://img.shields.io/badge/Preview-webpage-green)](https://raw.githack.com/ianignacioa/mms142-groupa-2020.github.io/main/Telemedicine/index.html)
 
-# Just click the Preview webpage button above to run the code.
-# If you have further comments or changes you would like reflected on the existing webpages created from scratch, you may check the code and apply the necessary changes.
+## The Repository
+
+
+## Telemedicine Website
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)

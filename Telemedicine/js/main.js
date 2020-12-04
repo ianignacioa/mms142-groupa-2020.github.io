@@ -1,3 +1,7 @@
+/**
+ * @GROUP Worker for animation using jquery
+ */
+
 (function ($) {
     "use strict";
 
