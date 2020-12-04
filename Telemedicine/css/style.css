@@ -450,9 +450,7 @@ h6 {
 .mobile-nav-active {
     overflow: hidden;
 }
-.pla {
-    margin-left: 250px;
-}
+
 .mobile-nav-active .mobile-nav {
     left: 0;
 }
@@ -484,6 +482,13 @@ h6 {
     color: #535074;
     width: 50%;
 }
+
+.section-header div{
+    text-align: center;
+    align-items: center;
+}
+
+
 
 /* 
 --------------------------------
@@ -867,6 +872,7 @@ Section with background
     left: -60px;
 }
 
+
 .about-content1{
     text-align: center; 
     margin-left: 350px; 
@@ -923,18 +929,6 @@ Section with background
         font-size: 28px;
         padding: 8px 0;
     }
-
-    #why-us .why-us-content {
-        padding-top: 30px;
-    }
-
-    #pricing {
-        padding-bottom: 30px;
-    }
-
-    #pricing .card {
-        margin-bottom: 50px;
-    }
 }
 
 @media (max-width: 768px) {
@@ -957,6 +951,13 @@ Section with background
         margin-top: -40px;
     }
 
+    .section-header div{
+        text-align: center;
+        align-items: center;
+        align-self: center;
+        align-content: center;
+    }
+
     #a-closer-look .img-fluid{
         height: auto;
     }
@@ -968,11 +969,7 @@ Section with background
     .about-content p{
         text-align: justify;
     }
-    .about-img{
-        width: 265px;
-        height: 220px;
-        left: 10px;
-    }
+    
     .footer-info p{
         text-align: justify;
         padding: 2px;
@@ -985,22 +982,22 @@ Section with background
         width: 350px;
     }
 
+    .about-img{
+        left: 0;
+        width: 285px;
+        height: 220px;
+    }
+
+    .about-img iframe{
+        margin: 0;
+        width: 300px;
+        height: 220px;
+    }
+
     .about-img1 iframe{
-        margin-left: 23px;
-        width: 300px;
+        margin: 0;
         height: 220px;
-    }
-
-    .about-img2 iframe{
-        margin-left: -245px;
         width: 300px;
-        height: 220px;
-    }
-
-    .about-img .youtube-player {
-        margin-left: -18px;
-        width: 300px;
-        height: 220px;
     }
 
     #intro {
