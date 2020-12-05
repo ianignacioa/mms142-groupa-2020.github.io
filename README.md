@@ -35,6 +35,6 @@ You can do this step by step:
 * [File an issue](https://github.com/ianignacioa/mms142-groupa-2020.github.io/issues)
 
 ## License   
-Copyright &copy; 2020 MMS 142: Group - Telemedicine All rights reserved.
+Copyright &copy; 2020 MMS 142: Group A - Telemedicine All rights reserved.
 
 Licensed under the [MIT](https://github.com/ianignacioa/mms142-groupa-2020.github.io/blob/main/LICENSE) license.
