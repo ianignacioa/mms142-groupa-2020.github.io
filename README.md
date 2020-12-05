@@ -10,7 +10,7 @@
 
 ## The Repository
 
-This repository "`mms142-groupa-2020.github.io`" is where we (Group A) develop the Telemedicine webpage. The outline, animations, and the context are properly structed using branching structure with CSS frameworks: **bootstrap - ionicons - wow - owl - jquery** to support our cascading style sheet [style.css](https://github.com/ianignacioa/mms142-groupa-2020.github.io/blob/main/Telemedicine/css/style.css). This source code is available to everyone under the standard [MIT license](https://github.com/ianignacioa/mms142-groupa-2020.github.io/blob/main/LICENSE).
+This repository "`mms142-groupa-2020.github.io`" is where we (Group A) develop the Telemedicine webpage. The outline, animations, and the context are properly structured using branching structure with CSS frameworks: **bootstrap - ionicons - wow - owl - jquery** to support our cascading style sheet [style.css](https://github.com/ianignacioa/mms142-groupa-2020.github.io/blob/main/Telemedicine/css/style.css). This source code is available to everyone under the standard [MIT license](https://github.com/ianignacioa/mms142-groupa-2020.github.io/blob/main/LICENSE).
 
 ## Telemedicine Website
 ![alt text](https://github.com/ianignacioa/mms142-groupa-2020.github.io/blob/main/Telemedicine/img/screenshot.png?raw=true)
