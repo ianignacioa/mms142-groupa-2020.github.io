@@ -1328,6 +1328,7 @@
 	Owl.prototype.viewport = function() {
 		var width;
 		if (this.options.responsiveBaseElement !== window) {
+			/** Potential XSS vulnerability in this block**/
 			width = $(this.options.responsiveBaseElement).width();
 		} else if (window.innerWidth) {
 			width = window.innerWidth;
@@ -1723,7 +1724,8 @@
 				data = $this.data('owl.carousel');
 
 			if (!data) {
-				data = new Owl(this, typeof option == 'object' && option);
+				/** Fixed issue **/
+				data = new Owl.find(this, typeof option == 'object' && option);
 				$this.data('owl.carousel', data);
 
 				$.each([
