@@ -282,6 +282,27 @@ h6 {
     font-weight: 600;
 }
 
+.main-nav button{
+    display: block;
+    position: relative;
+    color: #413e66;
+    padding: 10px ;
+    margin-right: -95px;
+    right: 0;
+    transition: 0.3s;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.main-nav button:hover,
+.main-nav .active > button,
+.main-nav li:hover >  button {
+    color: #1bb1dc;
+    text-decoration: none;
+}
+
 .main-nav a:hover,
 .main-nav .active > a,
 .main-nav li:hover > a {

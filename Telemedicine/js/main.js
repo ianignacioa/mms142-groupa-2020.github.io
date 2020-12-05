@@ -42,6 +42,7 @@
         }
     });
 
+
     if ($(window).scrollTop() > 100) {
         $("#header").addClass("header-scrolled");
     }
@@ -130,6 +131,13 @@
             portfolioIsotope.isotope({ filter: $(this).data("filter") });
         });
     });
+
+    if(localStorage.clickcount == null){
+        $('.btn').html('<span class="fa fa-thumbs-up"></span> vote 0');
+    } else{
+        $('.btn').html('<span class="fa fa-thumbs-up"></span> vote '+ localStorage.clickcount);
+    }
+       
 
     // Testimonials carousel (uses the Owl Carousel library)
     $(".testimonials-carousel").owlCarousel({
@@ -252,3 +260,15 @@ function pauseVideo() {
 }
 
 checkScroll();
+
+function clickCounter() {
+    if (localStorage.clickcount) {
+        localStorage.clickcount =
+            Number(localStorage.clickcount) + 1;
+    } else {
+        localStorage.clickcount = 1;
+    }
+    document.getElementById("like").innerHTML =
+        '<span class="fa fa-thumbs-up"></span> vote '+
+        localStorage.clickcount;
+}
