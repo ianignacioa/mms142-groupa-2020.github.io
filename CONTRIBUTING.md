@@ -11,3 +11,5 @@ You can do this step by step:
 * `git config --global user.name "your username"` - to add your github user account in the git config file.
 * `git config --global user.email "your github email"` - to add your github email in the git config file.
 * `git pull` - to get updated with the new changes of the code.
+
+# Thank you!
