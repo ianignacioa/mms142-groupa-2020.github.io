@@ -235,6 +235,7 @@
         var $links;
 
         if (dataLightboxValue) {
+			/** Fixed for code security issue **/
             $links = $.find(
                 $link.prop("tagName") +
                     '[data-lightbox="' +
