@@ -6,7 +6,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ianignacioa?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/ianignacioa/mms142-groupa-2020.github.io?label=Seen&style=social)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Webpage-link-blue)](https://rawcdn.githack.com/ianignacioa/mms142-groupa-2020.github.io/51262d2a10849c7e99846363b9475b87bd189f79/Telemedicine/index.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Webpage-link-blue)](https://rawcdn.githack.com/ianignacioa/mms142-groupa-2020.github.io/84f824e523a208f08d1c271e7bcaa21ce7613a28/Telemedicine/index.html)
 
 ## The Repository
 
