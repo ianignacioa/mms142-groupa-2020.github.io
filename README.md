@@ -18,7 +18,7 @@ This repository "`mms142-groupa-2020.github.io`" is where we (Group A) develop t
 
 ## Contributing
 
-For contributing just pull our repository and review the code then note your changes in the Project tab.
+For contributing just pull our repository and review the code then note your changes in the Project tab. see CONTRIBUTINNG.md
 
 You can do this step by step:
   
