@@ -983,16 +983,34 @@ Section with background
         width: 350px;
     }
 
+    
+
+    /* .about-img iframe{
+        margin-left: 0px;
+        width: 300px;
+        height: 220px;
+    } */
+
+    .about-img-first{
+        text-align: center;
+        width: fit-content;
+        height: fit-content;
+    }
+
     .about-img{
+        text-align: center;
+        align-items: center;
+        align-content: center;
+        align-self: center;
         left: 0;
-        width: 260px;
+        width: 290px;
         height: 220px;
     }
 
     .about-img iframe{
-        margin-left: -10px;
-        width: 300px;
+        align-self: center;
         height: 220px;
+        width: 300px;
     }
 
     .about-img1 iframe{
