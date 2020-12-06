@@ -996,27 +996,19 @@ Section with background
         align-items: center;
         align-content: center;
         align-self: center;
-        width: fit-content;
-        height: fit-content;
         margin: 0;
         left: 0;
         width: auto;
     }
-
-
-    /* .about-img{
-        width: 290px;
-        height: 220px;
-    } */
+    
 
     .about-img iframe{
-        margin-left: -6px;
+        display: block;
         height: 220px;
         width: 300px;
     }
 
     .about-img1 iframe{
-        margin: 0;
         height: 220px;
         width: 300px;
     }
