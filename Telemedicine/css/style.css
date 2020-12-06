@@ -991,24 +991,26 @@ Section with background
         height: 220px;
     } */
 
-    .about-img-first{
-        text-align: center;
-        width: fit-content;
-        height: fit-content;
-    }
-
-    .about-img{
+    .about-img-first div{
         text-align: center;
         align-items: center;
         align-content: center;
         align-self: center;
+        width: fit-content;
+        height: fit-content;
+        margin: 0;
         left: 0;
-        width: 290px;
-        height: 220px;
+        width: auto;
     }
 
+
+    /* .about-img{
+        width: 290px;
+        height: 220px;
+    } */
+
     .about-img iframe{
-        align-self: center;
+        margin-left: -6px;
         height: 220px;
         width: 300px;
     }
